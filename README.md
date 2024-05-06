@@ -7,3 +7,8 @@
 - **Myrann**:	Orbital Angular Momentum entanglement with vortex beams in hot vapor
 - **Simon**:	Introduction to turbulence for opticians
 - **Thibault**:	The fabulous mathematics of solitons
+
+## Day 2
+- **Quentin S**:	La physique atomique c'est fantastique - Atomic physics is fantastic
+- **Alix**:	Propagation of pulses in dispersive media
+- **Clara**:	Polarizing topics
