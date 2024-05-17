@@ -15,3 +15,10 @@
 - **Quentin S**:	La physique atomique c'est fantastique - Atomic physics is fantastic
 - **Alix**:	Propagation of pulses in dispersive media
 - **Clara**:	Polarizing topics
+
+### Notes
+- Spread on more days
+- People working together share their presentation
+- Quentin can be there if he does not take all the space
+- Group meeting must be shorter, not presenting every 2 weeks / limit timing
+- Flash talk very useful
