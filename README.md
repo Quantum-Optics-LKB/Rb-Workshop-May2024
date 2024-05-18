@@ -12,7 +12,7 @@
 - **Chengjie**:	Amplitude and phase modulation with SLM
 
 ## Day 2
-- **Quentin S**:	La physique atomique c'est fantastique - Atomic physics is fantastic
+- **Quentin S**:	[La physique atomique c'est fantastique - Atomic physics is fantastic](https://github.com/Quantum-Optics-LKB/course_atomic_physics "repository containing both data and code to reproduce it")
 - **Alix**:	Propagation of pulses in dispersive media
 - **Clara**:	Polarizing topics
 
